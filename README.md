@@ -9,6 +9,9 @@ Get a hands-on introduction to building and using decision trees and random fore
 
 You will learn not only how to use decision trees and random forests for classification and regression, and their respective limitations, but also how the algorithms that build them work. Each chapter introduces a new data concern and then walks you through modifying the code, thus building the engine just-in-time.  Along the way you will gain experience making decision trees and random forests work for you.
 
+Available from major stores including Amazon and Barnes &amp; Noble, in paperback and Kindle formats.
+
+- https://www.amazon.com/Tree-based-Machine-Learning-Algorithms-Decision/dp/1975860977 ISBN-13: 978-1-975-86097-4 (paperback) 
 - https://www.amazon.com/dp/B0756FGJCP/ (Kindle Edition)
 
 Table of Contents
